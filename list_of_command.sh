@@ -10,6 +10,21 @@ echo "The name of the pulsar list is" $pulsar_list
 echo "The software path is" $software_path
 echo "The input path directory is" $path
 
+#checking and creating a new directory to the outputs
+
+echo "Enter the output Directory Name: " $output_dir
+
+if [[ ! -d "$output_dir" ]]
+then
+	echo "Directory doesn't exist. Creating now"
+	mkdir $output_dir 
+	echo "Directory created"
+else
+	echo "Directory exists"
+
+fi
+
+
 #Using awk to construct the stem name 
 ls -1 $path/*_122_133.ar | awk -F "/|_" '{print $6 $7 "_" $8  }'|
 
