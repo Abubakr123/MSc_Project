@@ -26,7 +26,7 @@ fi
 
 
 #Using awk to construct the stem name 
-ls -1 $path/*_122_133.ar | awk -F "/|_" '{print $6 $7 "_" $8  }'|
+ls -1 $path/*_122_133.ar | awk -F "/|_" '{print $9 $10 "_" $11  }'|
 
 #Create the list of command lines
 while read -r; do
