@@ -185,7 +185,7 @@ if __name__ == '__main__':
             input_dir = args.input_dir
         else:
             raise RuntimeError('Input directory does not exist.')
-        if os.access(input_dir, os.W_OK) and os.access(input_dir, os.X_OK) and os.access(input_dir, os.R_OK):
+        if os.access(input_dir, os.R_OK) and os.access(input_dir, os.X_OK): # and os.access(input_dir, os.R_OK):
             pass
         else:
             raise RuntimeError('Input directory without read, write and execute permissions.')
