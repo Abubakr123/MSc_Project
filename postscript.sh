@@ -3,13 +3,13 @@
 
 #Creating a loop for zap files 
 for i in *.zap; do
-    printf 'psrplot -D "%s_bandpas.ps/cps" -p freq+ -j "tscrunch" -j "dedisperse" %s\n' "$i" "$i"	 #plot the bandpass (power vs frequency) and integrated dedispersed pulse
+    printf 'psrplot -D "%s_fprof.ps/cps" -p freq+ -j "tscrunch" -j "dedisperse" %s\n' "$i" "$i"	 #plot the bandpass (power vs frequency) and integrated dedispersed pulse
     printf 'pav -g "%s_ds.ps/cps" -j %s\n' "$i" "$i" 		#Display a simple dynamic spectrum image 
 done
 
 #looping through the time scrunch files
 for i in *.T; do
-    printf 'pav -g "%s_fprof.ps/cps" -Gd %s\n' "$i" "$i" 	#Plot an image of amplitude against frequency & phase 
+    #printf 'pav -g "%s_fprof.ps/cps" -Gd %s\n' "$i" "$i" 	#Plot an image of amplitude against frequency & phase 
     printf 'pav -g "%s_off_bp.ps/cps" -J %s\n' "$i" "$i" 	#Plot off-pulse bandpass & channel weights
 
 done
