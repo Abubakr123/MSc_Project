@@ -1,27 +1,54 @@
 #!/usr/bin/env bash
-for f in *.zap.T ; do
-	ls -1 $f
-	stem=`psredit -c file $f`
-	name=`psredit -c name $f`
-	nbin=`psredit -c nbin $f`
-	npol=`psredit -c npol $f`
-	nchan=`psredit -c nchan $f`
-	nsubint=`psredit -c nsubint $f`
-	type=`psredit -c type $f`
-	length=`psredit -c length $f`
-	site=`psredit -c site $f`
-	rm=`psredit -c rm $f`
-	dm=`psredit -c dm $f`
-	freq=`psredit -c freq $f` 
-	bw=`psredit -c bw $f`
-	#sed  "s/bw/$bw/g" header_plots.tex
-	coord=`psredit -c coord $f`
-	snr=`psrstat -j fscrunch -c snr $f`
-	#rfi_sum=`wc -l $f` | sed '1,4d'  
-	#\%RFI=$(echo `($rfi_sum/($nsubint*$nchan))*100.0` | bc )
-	#$echo $rfi_sum
-	echo $bw
-	echo $snr
+
+#pass the directory of the  main latex sript (header_plots.tex)
+path="/home/abubakr/MSc_Project"
+
+#prepare a list of the files
+file_list="*.ar.pscr.zap.F"
+
+#prepare and check the stem name (e.g B1122+25_D20140125T124533)
+stem_name=`ls -1 *$file_list | awk -F '.'  '{print $1}'`
+echo $stem_name
+
+#creat a loop through the files with different exctensions
+for f in $stem_name ; do
+	#stem=`psredit -c file $f`
+	sed  "s/xstem/$f/g" $path/header_plots.tex > "${f}"_header_plots2.tex
+	name=`psredit -Q -q -c name $f.ar.pscr.zap.F`
+	sed -i "s/xname/$name/g" "${f}"_header_plots2.tex
+	nbin=`psredit -Q -q -c nbin $f.ar.pscr.zap.F`
+	sed -i "s/xnbin/$nbin/g" "${f}"_header_plots2.tex
+	npol=`psredit -Q -q -c npol $f.ar.pscr.zap.F`
+	sed -i "s/xnpol/$npol/g" "${f}"_header_plots2.tex
+	nchan=`psredit -Q -q -c nchan $f.ar.pscr.zap.T`
+	sed -i "s/xnchan/$nchan/g" "${f}"_header_plots2.tex
+	nsubint=`psredit -Q -q -c nsubint $f.ar.pscr.zap.F`
+	sed -i "s/xnsubint/$nsubint/g" "${f}"_header_plots2.tex
+	type=`psredit -Q -q -c type $f.ar.pscr.zap.F`
+	sed -i "s/xtype/$type/g" "${f}"_header_plots2.tex
+	length=`psredit -Q -q -c length $f.ar.pscr.zap.F`
+	sed -i "s/xlength/$length/g" "${f}"_header_plots2.tex
+	site=`psredit -Q -q -c site $f.ar.pscr.zap.F`
+	sed -i "s/xsite/$site/g" "${f}"_header_plots2.tex
+	rm=`psredit -Q -q -c rm $f.ar.pscr.zap.F`
+	sed -i "s/xrm/$rm/g" "${f}"_header_plots2.tex
+	dm=`psredit -Q -q -c dm $f.ar.pscr.zap.F`
+	sed -i "s/xdm/$dm/g" "${f}"_header_plots2.tex
+	freq=`psredit -Q -q -c freq $f.ar.pscr.zap.F` 
+	sed -i "s/xfreq/$freq/g" "${f}"_header_plots2.tex
+	bw=`psredit -Q -q -c bw $f.ar.pscr.zap.F`
+	sed -i "s/xbw/$bw/g" "${f}"_header_plots2.tex
+	coord=`psredit -Q -q -c coord $f.ar.pscr.zap.F`
+	sed -i "s/xcoord/$coord/g" "${f}"_header_plots2.tex
+	snr=`psrstat -Q -q -j tscrunch -c snr $f.ar.pscr.zap.F`
+	sed -i "s/xsnr/$snr/g" "${f}"_header_plots2.tex 
+	rfi_sum=`sed '1,4d' $f.psh | wc -l`
+	RFI_percent=$(( $((nsubint*nchan))*100   | bc -l ))
+	sed -i "s/xRFI/$RFI_percent/g" "${f}"_header_plots2.tex
+
+	echo $rfi_sum 
+	echo $RFI_percent
 	echo $nchan
 	echo $nsubint
 done
+
