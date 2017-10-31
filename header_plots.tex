@@ -1,59 +1,58 @@
 \documentclass{article} 
-\usepackage[top=0.1in, bottom=1.40in, left=0.4in, right=1.30in]{geometry}
+\usepackage[top=1cm,right=1.5cm,bottom=1cm,left=1.5cm,noheadfoot]{geometry}
 \usepackage{graphicx} 
 \usepackage{subcaption}
 \usepackage{rotating}
 \usepackage{array}
+\usepackage{pdfpages}
 \begin{document}
 
 
-
 \newpage
+\pagenumbering{gobble}
 \begin{figure}[!htbp]
 \begin{minipage}[c][0.45\textheight][c]{0.5\linewidth}
     \begin{tabular}{ >{\centering\arraybackslash}m{0.8in} | >{\centering\arraybackslash}m{2.5in} } %to center cell contents of table
     \textbf{Parameter} & \textbf{Description} \\ \hline 
-    stem & B0138$+$59\_D20170612T072201 \\ 
-    name & J0141+6009  \\ 
-    nbin & 1024  \\ 
-    npol & 1 \\ 
-    nchan & 1  \\ 
-    nsubint & 368 \\ 
-    type & pulsar  \\ 
-    length &  3598.97240063998 (s) \\ 
-    site & FR606 \\ 
-    rm & 0  $(rad/m^2)$ \\ 
-    dm & 34.7970 $(pc/cm^3)$  \\ 
-    snr & 2079.56  \\ 
-    freq & 148.926 (MHz)  \\
-     & 78.926 (MHz)  \\ 
-    coord &  01:41:39.900+60:09:32.30 \\ 
-    \% RFI & $-$ \\ 
+    STEM & xstem \\ 
+    NAME &  xname  \\ 
+    NBIN &  xnbin  \\ 
+    NPOL &  xnpol\\ 
+    NCHAN &  xnchan  \\ 
+    NSUBINT &  xnsubint \\ 
+    TYPE &  xtype \\ 
+    LENGTH &  xlength (s) \\ 
+    SITE &  xsite \\ 
+    RM &  xrm $(rad/m^2)$ \\ 
+    DM &  xdm  $(pc/cm^3)$  \\ 
+    S/N &  xsnr \\ 
+    FREQ &  xfreq (MHz)  \\
+    BW &  xbw (MHz)  \\ 
+    COORD &   xcoord \\ 
+    \% RFI & xRFI \\ 
    \end{tabular}
    \label{table:student}
 \end{minipage}
-\hspace{0.07\textwidth}
-\begin{subfigure}{0.45\textwidth}
-\includegraphics[width=\linewidth,angle=-90]{B0138+59_D20170612T072201_avprof.ps}
+\hspace{0.02\textwidth}
+\begin{subfigure}[c]{0.58\textwidth}
+\includegraphics[width=\linewidth]{xavprof}
 \end{subfigure}
-%
-\begin{subfigure}[c]{0.45\textwidth}
-\includegraphics[width=\linewidth,angle=-90]{B0138+59_D20170612T072201_stack.ps}
+%\vspace{5mm}
+\begin{subfigure}[c]{0.58\textwidth}
+\includegraphics[width=\linewidth]{xstack}
 \end{subfigure}
-\hspace{0.144\textwidth}
-\begin{subfigure}[c]{0.45\textwidth}
-\includegraphics[width=\linewidth,angle=-90]{B0138+59_D20170612T072201_fprof.ps}
+\hspace{0.02\textwidth}
+\begin{subfigure}[c]{0.58\textwidth}
+\includegraphics[width=\linewidth]{xfprof}
 \end{subfigure}
-\vspace{8mm}
-
-\begin{subfigure}[c]{0.45\textwidth}
-\includegraphics[width=\linewidth,angle=-90]{B0138+59_D20170612T072201_ds.ps}
+%\vspace{5mm}
+\begin{subfigure}[c]{0.58\textwidth}
+\includegraphics[width=\linewidth]{xds}
 \end{subfigure}
-\hspace{0.12\textwidth}
-\begin{subfigure}[c]{0.45\textwidth}
-\includegraphics[width=\linewidth,angle=-90]{B0138+59_D20170612T072201_bp.ps}
+\hspace{0.02\textwidth}
+\begin{subfigure}[c]{0.58\textwidth}
+\includegraphics[width=\linewidth]{xbp}
 \end{subfigure}
 \end{figure}
-
 
 \end{document} 
