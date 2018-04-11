@@ -153,11 +153,9 @@ if __name__ == '__main__':
                                      description='Reduce LOFAR single station TimerArchive/PSRFITS data.',
                                      formatter_class=lambda prog: argparse.HelpFormatter(prog, max_help_position=100, width=250),
                                      epilog='Copyright (C) 2017 by Maciej Serylak and Abubakr Yagob')
-    parser.add_argument('-s', '--stem', dest='stem_name', metavar='<stem_name>', default='', help='filename stem PSR_DYYYYMMDDTHHMMSS')
     parser.add_argument('-i', '--indir', dest='input_dir', metavar='<input_dir>', default='', help='specify input directory')
     parser.add_argument('-o', '--outdir', dest='output_dir', metavar='<output_dir>', default='', help='specify output directory')
     parser.add_argument('-e', '--eph', dest='ephem_file', metavar='<ephem_file>', default='', help='use ephemeris file to update archives')
-    # parser.add_argument('-n', '--ntscr', dest='tscr_nsub', metavar='<ntscr>', nargs=1, help='dedisperse, time scrunch to n-subints and write out the file')
     parser.add_argument('-t', '--tscr', dest='tscr', action='store_true', help='time scrunch and write out the file')
     parser.add_argument('-f', '--fscr', dest='fscr', action='store_true', help='frequency scrunch and write out the file')
     parser.add_argument('-c', '--clean', dest='clean_rfi', action='store_true', help='clean data from RFI using CoastGuard\'s clean.py')
@@ -251,26 +249,6 @@ if __name__ == '__main__':
         raise RuntimeError('Adding files unsuccessful.')
 
 
-#    if len(input_files) == 3:
-#        pass
-#        if args.verbose:
-#           print 'Using following data files:'
-#            print '%s\n%s\n%s' % (input_files[0], input_files[1], input_files[2])
-#    elif len(input_files) < 3:
-#        raise RuntimeError('Insufficient number of matching TimerArchive/PSRFITS files.')
-#    elif len(input_files) > 3:
-#        raise RuntimeError('Exceeding number of matching TimerArchive/PSRFITS files.')
-#    added_filename = output_dir + '/' + stem_name + '.ar.pscr'
-#    if args.verbose:
-#        print '\nAdding data files to create %s.ar.pscr in %s\n' % (stem_name, output_dir)
-#    cmd = ['psradd', '-m', 'time', '-q', '-R', '-o', added_filename, input_files[0], input_files[1], input_files[2]]
-#    pipe = subprocess.Popen(cmd, shell=False, cwd=input_dir, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-#    (stdoutdata, stderrdata) = pipe.communicate()
-#    return_code = pipe.returncode
-#    if return_code != 0:
-#        raise RuntimeError('Adding files unsuccessful.')
-
-
     # Read new file.
     raw_archive = psrchive.Archive_load(added_filename)
     if args.verbose:
@@ -281,26 +259,6 @@ if __name__ == '__main__':
         if args.verbose:
             print '\nUpdating ephemeris in: %s\n' % raw_archive.get_filename()
         raw_archive.set_ephemeris(ephem_file)
-
-    # Zapping first 39 channels and last 49 channels. Checking if
-    # frequency range is as expected (109.9609375 <= freq <= 187.890625).
-#    first_frequency = 109.9609375
-#    last_frequency = 187.890625
-#    channel_bw = 0.1953125
-#    nchan_final = 400
-#    expected_frequency_table = np.arange(first_frequency, last_frequency + channel_bw, channel_bw)
-#    archive_frequency_table = np.zeros(nchan_final)
-#    for chan in np.arange(0, nchan_final, 1):
-#        archive_frequency_table[chan] = raw_archive.get_first_Integration().get_Profile(0, chan + 39).get_centre_frequency()
-#    if np.array_equal(archive_frequency_table, expected_frequency_table):
-#        pass
-#        if args.verbose:
-#            print "\nFrequency table correct!\n"
-#    else:
-#        raise RuntimeError('Unexpected frequency range.')
-#    raw_archive.remove_chan(0, 38)
-#    raw_archive.remove_chan(400, 448)
-#    raw_archive.unload()
 
     # Clean archive from RFI and save zap commands to psrsh file.
     if args.clean_rfi:
@@ -335,14 +293,6 @@ if __name__ == '__main__':
             fscrunch_archive.unload(output_dir + '/' + stem_name + '.ar.pscr.zap.F')
         else:
             fscrunch_archive.unload(output_dir + '/' + stem_name + '.ar.pscr.F')
-
-#    if args.tscr_nsub:
-#        ntscrunch_archive = raw_archive.clone()
-#        ntscrunch_archive.tscrunch_to_nsub(int(args.tscr_nsub[0]))
-#        if args.clean_rfi:
-#            raw_archive.unload(output_dir + '/' + stem_name + '.ar.pscr.zap.T' + args.tscr_nsub[0])
-#        else:
-#            raw_archive.unload(output_dir + '/' + stem_name + '.ar.pscr.T' + args.tscr_nsub[0])
 
     # End timing the script and output running time.
     script_end_time = time.time()
