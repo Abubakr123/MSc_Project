@@ -157,7 +157,7 @@ if __name__ == '__main__':
     parser.add_argument('-i', '--indir', dest='input_dir', metavar='<input_dir>', default='', help='specify input directory')
     parser.add_argument('-o', '--outdir', dest='output_dir', metavar='<output_dir>', default='', help='specify output directory')
     parser.add_argument('-e', '--eph', dest='ephem_file', metavar='<ephem_file>', default='', help='use ephemeris file to update archives')
-    # parser.add_argument('-n', '--ntscr', dest='tscr_nsub', metavar='<ntscr>', nargs=1, help='dedisperse, time scrunch to n-subints and write out the file')
+#    parser.add_argument('-n', '--ntscr', dest='tscr_nsub', metavar='<ntscr>', nargs=1, help='dedisperse, time scrunch to n-subints and write out the file')
     parser.add_argument('-t', '--tscr', dest='tscr', action='store_true', help='time scrunch and write out the file')
     parser.add_argument('-f', '--fscr', dest='fscr', action='store_true', help='frequency scrunch and write out the file')
     parser.add_argument('-c', '--clean', dest='clean_rfi', action='store_true', help='clean data from RFI using CoastGuard\'s clean.py')
@@ -169,11 +169,11 @@ if __name__ == '__main__':
     script_start_time = time.time()
 
     # Check for stem_name presence.
-    if not args.stem_name:
-        print parser.description, '\n'
-        print 'Usage:', parser.usage, '\n'
-        print parser.epilog
-        sys.exit(2)
+#    if not args.stem_name:
+#        print parser.description, '\n'
+#        print 'Usage:', parser.usage, '\n'
+#        print parser.epilog
+#        sys.exit(2)
 
     # Check for input_dir presence and validate read, write execute permissions.
     if not args.input_dir:
@@ -228,7 +228,7 @@ if __name__ == '__main__':
     input_files.sort()
 #    input_files = [os.path.join(dirpath, stem_name)
 #    for dirpath, dirnames, files in os.walk(input_dir)
-#   for stem_name in files if stem_name.endswith('.ar')]
+#    for stem_name in files if stem_name.endswith('.ar')]
 #    input_files.sort()
 
     if len(input_files) == 4:
@@ -240,11 +240,13 @@ if __name__ == '__main__':
         raise RuntimeError('Insufficient number of matching TimerArchive/PSRFITS files.')
     elif len(input_files) > 4:
         raise RuntimeError('Exceeding number of matching TimerArchive/PSRFITS files.')
+
     first_file = psrchive.Archive_load(input_files[0])
     mjd_date = first_file.get_first_Integration().get_start_time().intday() + first_file.get_first_Integration().get_start_time().fracday()
     source_name = first_file.get_source()
     stem_name = source_name + '_' + np.str(mjd_date)
     added_filename = output_dir + '/' + stem_name + '.ar.pscr'
+
     if args.verbose:
         print '\nAdding data files to create %s.ar.pscr in %s\n' % (stem_name, output_dir)
     cmd = ['psradd', '-m', 'time', '-q', '-R', '-o', added_filename, input_files[0], input_files[1], input_files[2], input_files[3]]

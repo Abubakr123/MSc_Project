@@ -166,13 +166,6 @@ if __name__ == '__main__':
     # Start timing the script.
     script_start_time = time.time()
 
-    # Check for stem_name presence.
-    if not args.stem_name:
-        print parser.description, '\n'
-        print 'Usage:', parser.usage, '\n'
-        print parser.epilog
-        sys.exit(2)
-
     # Check for input_dir presence and validate read, write execute permissions.
     if not args.input_dir:
         if args.verbose:
@@ -220,9 +213,8 @@ if __name__ == '__main__':
             update_ephem = True
 
     # Check for TimerArchive/PSRFITS files presence and add them together.
-    stem_name = args.stem_name
     input_dir = args.input_dir
-    input_files = glob.glob(input_dir + '/' + stem_name + '*.pscr')
+    input_files = glob.glob(input_dir + '/' + '*.pscr')
     input_files.sort()
 
     if len(input_files) == 3:
@@ -234,6 +226,7 @@ if __name__ == '__main__':
         raise RuntimeError('Insufficient number of matching TimerArchive/PSRFITS files.')
     elif len(input_files) > 3:
         raise RuntimeError('Exceeding number of matching TimerArchive/PSRFITS files.')
+
     first_file = psrchive.Archive_load(input_files[0])
     mjd_date = first_file.get_first_Integration().get_start_time().intday() + first_file.get_first_Integration().get_start_time().fracday()
     source_name = first_file.get_source()
