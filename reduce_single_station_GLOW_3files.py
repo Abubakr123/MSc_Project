@@ -221,7 +221,7 @@ if __name__ == '__main__':
         pass
         if args.verbose:
             print 'Using following data files:'
-            print '%s\n%s\n%s\n%s' % (input_files[0], input_files[1], input_files[2])
+            print '%s\n%s\n%s' % (input_files[0], input_files[1], input_files[2])
     elif len(input_files) < 3:
         raise RuntimeError('Insufficient number of matching TimerArchive/PSRFITS files.')
     elif len(input_files) > 3:
