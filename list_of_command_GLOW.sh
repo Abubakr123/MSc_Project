@@ -37,7 +37,7 @@ for sub_dir in "$dir"/*; do
 
     if [ "$#" -eq 4 ]; then
     # do things when 4 files were found
-        echo "These are complete 4 obs"
+        echo -e "\nThese are complete 4 obs\n"
         ls -1 "$@"
         ls -1 "$1" | ##### awk -F "/|-" '{print $11 "-" $12 "-" $13 }' |
         while read -r; do
@@ -45,12 +45,12 @@ for sub_dir in "$dir"/*; do
         done
 
     elif [ "$#" -eq 3 ]; then
-    echo "checking if they 3 completed obs or 3 incomlete obs ..."
+    echo -e "\nchecking if they 3 completed obs or 3 incomlete obs ...\n"
     ### ls -1 "$@" | sort -t. -k3   # this to sort the files in an order
 
         c_freq1=`psredit -Q -q -c freq "$1"`
         if [ $c_freq1 = $F1 ] || [ $c_freq1 = $F2 ] || [ $c_freq1 = $F3 ]; then
-        echo "Found $c_freq1 = $F1 or $F2 or $F3 ..."
+        echo -e "\nFound $c_freq1 = $F1 or $F2 or $F3 ...\n"
             ls -1 "$@"
             ls -1 "$1" | ###### awk -F "/|-" '{print $11 "-" $12 "-" $13 }' |
             while read -r; do
@@ -58,14 +58,14 @@ for sub_dir in "$dir"/*; do
             done
 
         else
-            echo "##### Incomplete 3 #####"
+            echo -e "\n##### Incomplete 3 #####\n"
             ls -1 "$@"
         fi
 
 
     else
     # do things when more than 4 files were found
-        echo " *** Insuficint number of files *** "
+        echo -e "\n *** Insuficint number of files *** "
         ls -1 "$@"
     fi
 done
