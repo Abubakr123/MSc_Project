@@ -5,8 +5,6 @@ list="$3"
 software_path="/home/abubakr/MSc_Project/"
 
 
-
-
 #checking and creating a new directory to the outputs
 
 echo "Enter the output Directory Name: " $output_dir
@@ -37,7 +35,7 @@ for sub_dir in "$dir"/*; do
 
     if [ "$#" -eq 4 ]; then
     # do things when 4 files were found
-        echo -e "\nThese are complete 4 obs\n"
+        echo -e "\nThese are complete 4 obs"
         ls -1 "$@"
         ls -1 "$1" | ##### awk -F "/|-" '{print $11 "-" $12 "-" $13 }' |
         while read -r; do
@@ -50,7 +48,8 @@ for sub_dir in "$dir"/*; do
 
         c_freq1=`psredit -Q -q -c freq "$1"`
         if [ $c_freq1 = $F1 ] || [ $c_freq1 = $F2 ] || [ $c_freq1 = $F3 ]; then
-        echo -e "\nFound $c_freq1 = $F1 or $F2 or $F3 ...\n"
+        echo -e "\nFound $c_freq1 = $F1 or $F2 or $F3 ..."
+        echo -e "\nThese are compelete 3 obs"
             ls -1 "$@"
             ls -1 "$1" | ###### awk -F "/|-" '{print $11 "-" $12 "-" $13 }' |
             while read -r; do
@@ -58,7 +57,8 @@ for sub_dir in "$dir"/*; do
             done
 
         else
-            echo -e "\n##### Incomplete 3 #####\n"
+            echo -e "\nFound $c_freq1 != $F1 or $F2 or $F3 ...\n"
+            echo -e "\n##### Incomplete 4 observations #####"
             ls -1 "$@"
         fi
 
