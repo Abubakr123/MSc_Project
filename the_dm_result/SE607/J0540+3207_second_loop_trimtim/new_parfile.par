@@ -1,0 +1,28 @@
+PSRJ           J0540+3207
+RAJ             05:40:37.1152502         1 
+DECJ           +32:07:37.41188           1 
+F0             1.9074109189030079287     1 
+F1             -1.630520186445409079e-15 1 
+PEPOCH         54780.000360836957185       
+POSEPOCH       54780.000360836957185       
+DMEPOCH        54780.000180418477193       
+DM             62.095762500640532336     1 
+START          57376.968022267663262       
+FINISH         58119.003382759751926       
+TZRFRQ         144.03899876664682944    
+TZRSITE        SE607   
+TRES           -nan         
+EPHVER         5                           
+NE_SW          9.9610000000000000001       
+CLK            TT(TAI)
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+NE_SW          9.961
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE405
+NITS           1
+NTOA           0
+CHI2R          inf 0
