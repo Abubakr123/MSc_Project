@@ -1,0 +1,2 @@
+python /home/abubakr/MSc_Project/lucasscripts/make_templates.py -datadir /data0/abubakr/J0343+5312 -dataext T1.DFTp -sortsnr -overwrite -freq 0 -bw 0 -obsnchan 0 -scale 0 -maxsum 0 -noclock
+python /home/abubakr/MSc_Project/lucasscripts/make_toas.py -datadir /data0/abubakr/J0343+5312 -dataext T1 -plotres -template /data0/abubakr/J0343+5312/Second_loop/smoothed.prof -overwrite

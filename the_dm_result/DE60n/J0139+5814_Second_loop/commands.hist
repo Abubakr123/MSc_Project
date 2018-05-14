@@ -1,0 +1,6 @@
+python /home/abubakr/MSc_Project/lucasscripts/make_templates.py -datadir /data0/abubakr/J0139+5814 -dataext T1.DFTp -sortsnr -overwrite -freq 0 -bw 0 -obsnchan 0 -scale 0 -maxsum 0 -noclock
+python /home/abubakr/MSc_Project/lucasscripts/make_templates.py -datadir /data0/abubakr/J0139+5814 -dataext T1.DFTp -sortsnr -overwrite -freq 0 -bw 0 -obsnchan 0 -scale 0 -maxsum 0 -noclock
+python /home/abubakr/MSc_Project/lucasscripts/make_templates.py -datadir /data0/abubakr/J0139+5814 -dataext T1.DFTp -sortsnr -overwrite -freq 0 -bw 0 -obsnchan 0 -scale 0 -maxsum 0 -noclock
+python /home/abubakr/MSc_Project/lucasscripts/make_toas.py -datadir /data0/abubakr/J0139+5814 -dataext T1 -plotres -template /data0/abubakr/J0139+5814/Second_loop/smoothed.prof -overwrite
+python /home/abubakr/MSc_Project/lucasscripts/make_templates.py -datadir /data0/abubakr/J0139+5814/Second_loop -dataext T1.DFTp -sortsnr -overwrite -freq 0 -bw 0 -obsnchan 0 -scale 0 -maxsum 0 -noclock
+python /home/abubakr/MSc_Project/lucasscripts/make_toas.py -datadir /data0/abubakr/J0139+5814/Second_loop -dataext T1 -plotres -template /data0/abubakr/J0139+5814/Second_loop/Second_loop/smoothed.prof -overwrite

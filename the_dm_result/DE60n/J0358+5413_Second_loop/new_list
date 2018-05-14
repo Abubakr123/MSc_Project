@@ -1,0 +1,39 @@
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-02-18-16:49 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-02-24-16:22 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-03-03-15:55 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-03-11-15:36 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-03-17-14:14 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-03-25-14:31 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-03-31-13:21 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-04-08-12:56 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-04-14-13:27 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-04-23-12:42 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-04-28-11:42 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-05-06-12:03 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-05-14-10:58 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-05-21-10:52 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-05-26-10:15 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-06-03-09:57 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-06-11-09:59 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-06-17-09:00 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-06-24-08:50 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-07-01-07:58 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-07-08-06:59 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-07-21-06:46 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-07-29-06:14 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-08-05-05:46 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-08-21-05:50 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-08-26-04:24 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-09-02-03:57 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-09-09-03:50 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-09-17-03:06 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-09-23-02:34 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-09-30-02:20 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-10-07-03:15 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-10-21-00:44 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-10-28-00:06 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-11-12-23:04 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+python2.7 /home/abubakr/MSc_Project/reduce_single_station_GLOW_3files.py --indir /data3/lofar/LC0_014/GLOW/J0358+5413/2017-11-19-21:51 --outdir /data0/abubakr/J0358+5413 --tscr --fscr --psrsh --clean --verbose
+
+
+
