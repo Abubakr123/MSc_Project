@@ -1,0 +1,2 @@
+python /home/abubakr/MSc_Project/lucasscripts/make_templates.py -datadir /home/abubakr/MSc_Project -dataext DFTp -forcealign -overwrite -freq 0 -bw 0 -obsnchan 0 -scale 0 -maxsum 0 -noclock
+python /home/abubakr/MSc_Project/lucasscripts/make_toas.py -datadir /home/abubakr/MSc_Project -dataext F8T10 -template smoothed.prof -overwrite
