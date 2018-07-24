@@ -17,7 +17,7 @@ echo -e "\n The end of loop 1 and staart loop 2"
 
 
 echo -e "\n Start updating the obs with the new parfile and dm and F8T1 scrunch"
-pam --update_dm -mE $dir/Second_loop/new_parfile.par $dir/.F8T1 #*.pscr.zap --setnchn 8 -T -e zap.F8T1
+pam --update_dm -mE $dir/Second_loop/new_parfile.par $dir/*.F8T1 #*.pscr.zap --setnchn 8 -T -e zap.F8T1
 
 
 #ransform the ephemerides from tempo1 version to tempo2 version

@@ -4,10 +4,10 @@
 echo -e "\n The script checks the DM value for each observation and makes the parameter file from the last observation file(which usualy is the updated one)"
 #prepare a list of the files
 
-file_list="*.T"
+file_list="*.zap"
 zap_files="*.zap"
 
-'''
+
 echo -e "\n Create total scrunch on freq,time and polarization and de-dispersion"
 pam -FDp -e DFTp $file_list
 
@@ -23,7 +23,7 @@ tempo2 -gr transform $par $par
 
 
 echo -e "\n Prepare and check the stem name (e.g B1122+25_D20140125T124533)"
-stem_name=`ls -1 $zap_files`
+stem_name=`ls -1 $file_list`
 echo $stem_name
 
 #looping throgh the list
@@ -45,7 +45,7 @@ for file in $zap_files; do
         pam --setnchn 6 --setnsub 10 $file -e F6.T10
     fi
 done
-'''
+
 # Get the templates and the TOAs.tim
 dir=`pwd`
 
@@ -54,4 +54,5 @@ python2.7 /home/abubakr/MSc_Project/lucasscripts/make_templates.py -datadir $dir
 
 echo -e "\n Run make_toas.py using F8T10 files to create the tim file"
 python2.7 /home/abubakr/MSc_Project/lucasscripts/make_toas.py -datadir $dir -dataext T10 -template smoothed.prof -overwrite
+
 
