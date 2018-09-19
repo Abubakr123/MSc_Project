@@ -1,0 +1,62 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import sys
+
+PSR = sys.argv[1]
+name = np.loadtxt('dmvals.dat')
+MJD=name[ :,0]
+angle=name[ :,1]
+dm=name[ :,2]
+dm_err=name[ :,3]
+
+#=================================================================
+'''
+plt.errorbar(MJD, dm, dm_err, label="DM values", marker='o', ms=3,
+              ls='dotted', color='magenta')
+plt.grid(which='both')
+plt.xlabel('Days(MJD)')
+plt.ylabel('DM(pc/cm^3)')
+plt.title("The angle between the Sun and %s" % PSR)
+
+
+a = plt.axes([0.60, 0.6, .3, .25], facecolor='k')
+plt.plot(MJD, angle,'.' ) #, label = "Object's path from SUN")
+plt.xlabel('MJD')
+plt.ylabel('Angle(deg)')
+plt.xticks([])
+plt.yticks([])
+
+
+plt.savefig("DM_Solar_angle_%s.png" %PSR)
+plt.show()
+'''
+#=================================================================
+fig=plt.figure()
+ax1 = plt.subplot(2, 1, 1)
+ax1.plot(MJD, angle,'.' , label = "Object's path from SUN")
+plt.ylabel('Solar angle(deg)')
+plt.title("The DM and solar angle for %s" % PSR)
+
+x_cond = MJD[angle<=20]
+y_cond = angle[angle<=20]
+
+ax2 = plt.subplot(2, 1, 2)
+ax2.errorbar(MJD, dm, dm_err, label="DM values", marker='o', ms=3,
+              ls='dotted', color='magenta')
+plt.xlabel('Days(MJD)')
+plt.ylabel('DM(pc/cm^3)')
+plt.grid(which='both')
+plt.legend(loc='best',fontsize=10,fancybox=True).get_frame().set_alpha(0.5)
+
+ax1.get_shared_x_axes().join(ax1, ax2)
+ax1.set_xticklabels([])
+plt.subplots_adjust(hspace=0)
+
+
+#ax2.fill_between(MJD, dm, where=angle <= 20, color='green', interpolate=True)
+
+
+plt.savefig("solar_angle_path_%s.png" %PSR)
+plt.show()
+
+

@@ -8,7 +8,7 @@ cd Second_loop
 
 # Start tempo2 to check and adjust the parameters
 echo -e "\n############### Check and adjust the parameters in the initial parfile and get new_parfil.par (in case of the bad sample, you can work on a bunch of phase connected TOAs by fitting F0, F1, DM and position) ###############\n"
-tempo2 -gr plk -npsr 1 -nofit -nobs 30000 -f $dir/new_parfile.par -setup /home/abubakr/MSc_Project/mypsr/script/plk_setup_fr606_embrace.dat $dir/TOAs.tim
+#tempo2 -gr plk -npsr 1 -nofit -nobs 30000 -f $dir/new_parfile.par -setup /home/abubakr/MSc_Project/mypsr/script/plk_setup_fr606_embrace.dat $dir/TOAs.tim
 
 echo -e "\n############### Refined the the model on all the TOAs ###############\n"
 #tempo2 -gr plk -npsr 1 -nofit -nobs 30000 -f $dir/Second_loop/new_parfile.par -setup /home/abubakr/MSc_Project/mypsr/script/plk_setup_fr606_embrace.dat $dir/TOAs.tim
@@ -35,9 +35,9 @@ for file in $zap_files; do
     nchan=`psredit -Q -q -c nchan "$file"`
     if [ "$nchan" -eq 400 ]; then
         ls -1 $file
-        pam --update_dm -E $dir/Second_loop/new_parfile.par $file --setnchn 8 -T -e zap.F8.T1
+        pam --update_dm -E $dir/Second_loop/new_parfile.par $file --setnchn 4 -T -e zap.F4.T1
     else
-        pam --update_dm -E $dir/Second_loop/new_parfile.par $file --setnchn 6 -T -e zap.F6.T1
+        pam --update_dm -E $dir/Second_loop/new_parfile.par $file --setnchn 4 -T -e zap.F4.T1
     fi
 done
 

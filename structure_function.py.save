@@ -10,17 +10,6 @@ DM = np.array(name[ :,1])
 DM_err = np.array(name[ :,2])
 
 
-#check the np.interpolation
-'''
-plt.figure()#(figsize=(13,10))
-plt.errorbar(MJD, DM, yerr=DM_err, fmt='*')
-interpF = np.interp(np.linspace(56600,60000,1000),MJD,DM)
-plt.plot(np.linspace(56600,60000,1000),interpF)
-plt.xlim(xmax=58200)
-plt.show()
-
-'''
-
 #calculate the structure function and the weights
 weights = []
 SF = []
@@ -30,9 +19,9 @@ lag = 15
 for i in range(len(MJD)):
     i = i+lag
     tau.append(i)
-    for j in range(len(MJD)):
-        print i, j, i+j
-#      while j < len(i):
+    for j in range(i+1, len(MJD)):
+      print i, j, i+j
+
         w = (DM_err[i+j])**2  + (DM_err[j])**2
         wi = 1/np.array(w)
         weights.append(wi)
@@ -74,6 +63,7 @@ print SF
 print SF_err
 
 
+'''
 #convert the lists to numpy array=======================================================
 SF = np.array(SF)
 SF_err = np.array(SF_err)
@@ -97,6 +87,7 @@ print"SF_err = ", SF_err
 print np.shape(SF)
 print np.shape(SF_err)
 
+'''
 #============================================================================
 
 logA = np.log(z) #no need for list comprehension since all z values >= 1
@@ -127,5 +118,4 @@ plt.show()
 
 slope, intercept = np.polyfit(logA, logB, 1)
 print "the slope , intercept: ", slope, intercept
-
 
