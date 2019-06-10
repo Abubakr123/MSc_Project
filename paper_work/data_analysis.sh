@@ -35,3 +35,12 @@ bash ~/MSc_Project/paper_work/scripts/jd_calcDMseries.bash -a="-O -U -C=5 -R" -p
 python2.7 ~/MSc_Project/paper_work/plot_dm.py DMfile.txt $PSR_name
 
 
+bash ~/MSc_Project/paper_work/scripts/jd_calc_stats.bash -col=4 -median DMfile.txt
+
+bash ~/MSc_Project/paper_work/scripts/jd_calc_stats.bash -col=5 -median DMfile.txt
+
+bash ~/MSc_Project/paper_work/scripts/jd_calc_stats.bash -col=6 -median DMfile.txt
+
+bash ~/MSc_Project/paper_work/scripts/jd_calc_stats.bash -col=3 -ecol=4 -mean DMfile.txt
+bash ~/MSc_Project/paper_work/scripts/jd_calc_stats.bash -col=3 -ecol=4 -rms -o=3.9902402540e+01 DMfile.txt
+
