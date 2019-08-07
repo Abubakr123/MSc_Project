@@ -171,7 +171,7 @@ if args.diff:
     ymax = 1 + 0.1*nplot - 0.5
 else:
     ymin = 0
-    ymax = 1 + 0.1*nplot
+    ymax = 1 + 0.17*nplot
 
 plt.ylim([ymin,ymax])
 plt.title("Profile evolution with frequency for %s"%str(args.psr))

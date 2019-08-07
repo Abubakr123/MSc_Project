@@ -1,0 +1,5 @@
+#!/usr/bin/env psrsh
+centre max
+#unload with new extension
+#unload ext=test
+
