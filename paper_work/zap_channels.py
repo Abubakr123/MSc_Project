@@ -32,12 +32,16 @@ for file in args.files:
         print archive, nchan
         archive.remove_chan(0, 41)
         archive.remove_chan(350, 357)
-        archive.unload(output_dir + '/' + file)
+        archive.unload(output_dir + '/' + file + '.F350')
     elif ( nchan == 366 ):
         print archive, nchan
         archive.remove_chan(350, 365)
-        archive.unload(output_dir + '/' + file)
-    else:
+        archive.unload(output_dir + '/' + file + '.F350')
+    elif ( nchan == 488 ):
         print archive, nchan
-
-
+        archive.remove_chan(0, 80)
+        archive.remove_chan(350, 406)
+        archive.unload()
+        archive.unload(output_dir + '/' + file + '.F350')
+    else:
+	print archive, nchan
