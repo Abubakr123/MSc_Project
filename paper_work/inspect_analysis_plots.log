@@ -1,0 +1,3679 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.17)  15 AUG 2019 10:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**inspect_analysis_plots.tex
+(./inspect_analysis_plots.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@ContinuedFloat=\count91
+)
+\c@subfigure=\count92
+\c@subtable=\count93
+)
+(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count94
+\rotFPtop=\skip43
+\rotFPbot=\skip44
+\rot@float@box=\box26
+\rot@mess@toks=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen120
+\extrarowheight=\dimen121
+\NC@list=\toks17
+\extratabsurround=\skip45
+\backup@length=\skip46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count95
+\calc@Bcount=\count96
+\calc@Adimen=\dimen122
+\calc@Bdimen=\dimen123
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count97
+\calc@Cskip=\skip49
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen124
+\AM@pageheight=\dimen125
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box27
+\AM@toc@title=\toks18
+\c@AM@survey=\count98
+\AM@templatesizebox=\box28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grffile.sty
+Package: grffile 2012/04/05 v1.16 Extended file name support for graphics (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
+)
+(./inspect_analysis_plots.aux)
+\openout1 = `inspect_analysis_plots.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
+* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=528.93675pt
+* \textheight=738.0645pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-43.81725pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen126
+\scratchbox=\box29
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen127
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box30
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0
+051+0423.png, id=1, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J0051+0423.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J0051+0423.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J0051+0423.png used on input line 19.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 20.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0
+102+6537.png, id=3, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J0102+6537.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J0102+6537.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J0102+6537.png used on input line 23.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (15.0254pt too wide) in paragraph at lines 18--25
+$[]$   $[]$ 
+ []
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0
+335+4555.png, id=4, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J0335+4555.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J0335+4555.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J0335+4555.png used on input line 28.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0
+540+3207.png, id=5, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J0540+3207.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J0540+3207.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J0540+3207.png used on input line 32.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (24.73087pt too wide) in paragraph at lines 27--34
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.34 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.34 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.34 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.34 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0
+546+2441.png, id=6, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J0546+2441.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J0546+2441.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J0546+2441.png used on input line 38.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0
+700+6418.png, id=7, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J0700+6418.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J0700+6418.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J0700+6418.png used on input line 42.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 37--44
+[]$[]$   $[]$ 
+ []
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0
+815+4611.png, id=8, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J0815+4611.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J0815+4611.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J0815+4611.png used on input line 47.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0
+921+6254.png, id=9, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J0921+6254.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J0921+6254.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J0921+6254.png used on input line 51.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 46--53
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.53 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/abubakar/Desktop/mas
+ter_project/My_project/MSc_Project/paper_work/se607_results/DM_J0051+0423.png> 
+</home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se607_
+results/DM_J0102+6537.png> </home/abubakar/Desktop/master_project/My_project/MS
+c_Project/paper_work/se607_results/DM_J0335+4555.png> </home/abubakar/Desktop/m
+aster_project/My_project/MSc_Project/paper_work/se607_results/DM_J0540+3207.png
+> </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se60
+7_results/DM_J0546+2441.png> </home/abubakar/Desktop/master_project/My_project/
+MSc_Project/paper_work/se607_results/DM_J0700+6418.png>]
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.53 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.53 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.53 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J1
+115+5030.png, id=22, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J1115+5030.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J1115+5030.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J1115+5030.png used on input line 57.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J1
+321+8323.png, id=23, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J1321+8323.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J1321+8323.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J1321+8323.png used on input line 61.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 56--63
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.63 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.63 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.63 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.63 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J1
+840+5640.png, id=24, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J1840+5640.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J1840+5640.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J1840+5640.png used on input line 67.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J1
+955+5059.png, id=25, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J1955+5059.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J1955+5059.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J1955+5059.png used on input line 71.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 66--73
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.73 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.73 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.73 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.73 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J2
+321+6024.png, id=26, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J2321+6024.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J2321+6024.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J2321+6024.png used on input line 77.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J2
+321+6024_F5.png, id=27, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+DM_J2321+6024_F5.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/D
+M_J2321+6024_F5.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/DM_J2321+6024_F5.png used on input line 81.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 76--83
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.83 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[2 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se6
+07_results/DM_J0815+4611.png> </home/abubakar/Desktop/master_project/My_project
+/MSc_Project/paper_work/se607_results/DM_J0921+6254.png> </home/abubakar/Deskto
+p/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J1115+5030.
+png> </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/s
+e607_results/DM_J1321+8323.png> </home/abubakar/Desktop/master_project/My_proje
+ct/MSc_Project/paper_work/se607_results/DM_J1840+5640.png> </home/abubakar/Desk
+top/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J1955+505
+9.png>]
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.83 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.83 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.83 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+[3 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se6
+07_results/DM_J2321+6024.png> </home/abubakar/Desktop/master_project/My_project
+/MSc_Project/paper_work/se607_results/DM_J2321+6024_F5.png>]
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0051
++0423__profile_evolution.png, id=42, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0051+0423__profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0051+0423__profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0051+0423__profile_evolution.png used on input line 91.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \begin{subfigure}[c]{0.50\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0102
++6537_profile_evolution.png, id=43, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0102+6537_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0102+6537_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0102+6537_profile_evolution.png used on input line 95.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (15.0254pt too wide) in paragraph at lines 90--97
+$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.97 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.97 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.97 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.97 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0335
++4555_profile_evolution.png, id=44, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0335+4555_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0335+4555_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0335+4555_profile_evolution.png used on input line 102.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0540
++3207_profile_evolution.png, id=45, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0540+3207_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0540+3207_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0540+3207_profile_evolution.png used on input line 106.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 101--108
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.108 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.108 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.108 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.108 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0546
++2441_profile_evolution.png, id=46, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0546+2441_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0546+2441_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0546+2441_profile_evolution.png used on input line 112.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0700
++6418_profile_evolution.png, id=47, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0700+6418_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0700+6418_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0700+6418_profile_evolution.png used on input line 116.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 111--118
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.118 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.118 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.118 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.118 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0815
++4611_profile_evolution.png, id=48, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0815+4611_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0815+4611_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0815+4611_profile_evolution.png used on input line 123.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0921
++6254_profile_evolution.png, id=49, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0921+6254_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0921+6254_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0921+6254_profile_evolution.png used on input line 127.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 122--129
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.129 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[4 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se6
+07_results/J0051+0423__profile_evolution.png> </home/abubakar/Desktop/master_pr
+oject/My_project/MSc_Project/paper_work/se607_results/J0102+6537_profile_evolut
+ion.png> </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_wo
+rk/se607_results/J0335+4555_profile_evolution.png> </home/abubakar/Desktop/mast
+er_project/My_project/MSc_Project/paper_work/se607_results/J0540+3207_profile_e
+volution.png> </home/abubakar/Desktop/master_project/My_project/MSc_Project/pap
+er_work/se607_results/J0546+2441_profile_evolution.png> </home/abubakar/Desktop
+/master_project/My_project/MSc_Project/paper_work/se607_results/J0700+6418_prof
+ile_evolution.png>]
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.129 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.129 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.129 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1115
++5030_profile_evolution.png, id=59, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J1115+5030_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+1115+5030_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J1115+5030_profile_evolution.png used on input line 133.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1321
++8323_profile_evolution.png, id=60, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J1321+8323_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+1321+8323_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J1321+8323_profile_evolution.png used on input line 137.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 132--139
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.139 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.139 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.139 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.139 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 \begin{subfigure}[c]{0.5\textwidth}
+                                         
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1840
++5640_profile_evolution.png, id=61, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J1840+5640_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+1840+5640_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J1840+5640_profile_evolution.png used on input line 143.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1955
++5059_profile_evolution.png, id=62, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J1955+5059_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+1955+5059_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J1955+5059_profile_evolution.png used on input line 147.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 142--149
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.149 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.149 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.149 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.149 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J2321
++6024_profile_evolution.png, id=63, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J2321+6024_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+2321+6024_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J2321+6024_profile_evolution.png used on input line 154.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J2321
++6024_F5_profile_evolution.png, id=64, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J2321+6024_F5_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+2321+6024_F5_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J2321+6024_F5_profile_evolution.png used on input line 158.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 153--160
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.160 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[5 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se6
+07_results/J0815+4611_profile_evolution.png> </home/abubakar/Desktop/master_pro
+ject/My_project/MSc_Project/paper_work/se607_results/J0921+6254_profile_evoluti
+on.png> </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_wor
+k/se607_results/J1115+5030_profile_evolution.png> </home/abubakar/Desktop/maste
+r_project/My_project/MSc_Project/paper_work/se607_results/J1321+8323_profile_ev
+olution.png> </home/abubakar/Desktop/master_project/My_project/MSc_Project/pape
+r_work/se607_results/J1840+5640_profile_evolution.png> </home/abubakar/Desktop/
+master_project/My_project/MSc_Project/paper_work/se607_results/J1955+5059_profi
+le_evolution.png>]
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.160 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.160 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.160 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+[6 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se6
+07_results/J2321+6024_profile_evolution.png> </home/abubakar/Desktop/master_pro
+ject/My_project/MSc_Project/paper_work/se607_results/J2321+6024_F5_profile_evol
+ution.png>]
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0051
++0423_tmplate-freq.png, id=79, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0051+0423_tmplate-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0051+0423_tmplate-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0051+0423_tmplate-freq.png used on input line 169.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.172 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0102
++6537_template-freq.png, id=80, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0102+6537_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0102+6537_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0102+6537_template-freq.png used on input line 173.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (15.0254pt too wide) in paragraph at lines 168--175
+$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.175 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.175 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.175 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.175 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0335
++4555_template-freq.png, id=81, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0335+4555_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0335+4555_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0335+4555_template-freq.png used on input line 180.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0540
++3207_tmplate-freq.png, id=82, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0540+3207_tmplate-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0540+3207_tmplate-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0540+3207_tmplate-freq.png used on input line 184.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 179--186
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.186 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.186 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.186 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.186 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.186 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.189 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0546
++2441_tmplate-freq.png, id=83, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0546+2441_tmplate-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0546+2441_tmplate-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0546+2441_tmplate-freq.png used on input line 190.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0700
++6418_template-freq.png, id=84, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0700+6418_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0700+6418_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0700+6418_template-freq.png used on input line 194.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 189--196
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.196 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.196 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.196 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.196 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.200 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0815
++4611_tmplate-freq.png, id=85, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0815+4611_tmplate-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0815+4611_tmplate-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0815+4611_tmplate-freq.png used on input line 201.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0921
++6254_template-freq.png, id=86, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J0921+6254_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+0921+6254_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J0921+6254_template-freq.png used on input line 205.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 200--207
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.207 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[7 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se6
+07_results/J0051+0423_tmplate-freq.png> </home/abubakar/Desktop/master_project/
+My_project/MSc_Project/paper_work/se607_results/J0102+6537_template-freq.png> <
+/home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se607_r
+esults/J0335+4555_template-freq.png> </home/abubakar/Desktop/master_project/My_
+project/MSc_Project/paper_work/se607_results/J0540+3207_tmplate-freq.png> </hom
+e/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se607_resul
+ts/J0546+2441_tmplate-freq.png> </home/abubakar/Desktop/master_project/My_proje
+ct/MSc_Project/paper_work/se607_results/J0700+6418_template-freq.png>]
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.207 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.207 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.207 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1115
++5030_template-freq.png, id=97, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J1115+5030_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+1115+5030_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J1115+5030_template-freq.png used on input line 211.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1321
++8323_template-freq.png, id=98, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J1321+8323_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+1321+8323_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J1321+8323_template-freq.png used on input line 215.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 210--217
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.217 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.217 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.217 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.217 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.217 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.221 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1840
++5640_template-freq.png, id=99, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J1840+5640_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+1840+5640_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J1840+5640_template-freq.png used on input line 222.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.225 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1955
++5059_tmplate-freq.png, id=100, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J1955+5059_tmplate-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+1955+5059_tmplate-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J1955+5059_tmplate-freq.png used on input line 226.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 221--228
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.228 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.228 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.228 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.228 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J2321
++6024_tmplate-freq.png, id=101, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J2321+6024_tmplate-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+2321+6024_tmplate-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J2321+6024_tmplate-freq.png used on input line 233.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.236 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J2321
++6024_tmplate-5freq.png, id=102, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/
+J2321+6024_tmplate-5freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J
+2321+6024_tmplate-5freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/se607_results/J2321+6024_tmplate-5freq.png used on input line 237.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 232--239
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.239 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[8 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se6
+07_results/J0815+4611_tmplate-freq.png> </home/abubakar/Desktop/master_project/
+My_project/MSc_Project/paper_work/se607_results/J0921+6254_template-freq.png> <
+/home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se607_r
+esults/J1115+5030_template-freq.png> </home/abubakar/Desktop/master_project/My_
+project/MSc_Project/paper_work/se607_results/J1321+8323_template-freq.png> </ho
+me/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se607_resu
+lts/J1840+5640_template-freq.png> </home/abubakar/Desktop/master_project/My_pro
+ject/MSc_Project/paper_work/se607_results/J1955+5059_tmplate-freq.png>]
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.239 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.239 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.239 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.239 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+[9 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/se6
+07_results/J2321+6024_tmplate-freq.png> </home/abubakar/Desktop/master_project/
+My_project/MSc_Project/paper_work/se607_results/J2321+6024_tmplate-5freq.png>]
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.248 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J0
+141+6009.png, id=117, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+DM_J0141+6009.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/D
+M_J0141+6009.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/DM_J0141+6009.png used on input line 249.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.252 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J0
+323+3944.png, id=118, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+DM_J0323+3944.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/D
+M_J0323+3944.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/DM_J0323+3944.png used on input line 253.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (15.0254pt too wide) in paragraph at lines 248--255
+$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.255 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.255 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.255 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.255 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.255 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.259 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J0
+613+3731.png, id=119, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+DM_J0613+3731.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/D
+M_J0613+3731.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/DM_J0613+3731.png used on input line 260.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.263 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J1
+136+1551.png, id=120, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+DM_J1136+1551.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/D
+M_J1136+1551.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/DM_J1136+1551.png used on input line 264.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 259--266
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.266 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.266 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.266 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.266 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.269 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J1
+239+2453.png, id=121, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+DM_J1239+2453.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/D
+M_J1239+2453.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/DM_J1239+2453.png used on input line 270.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.273 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J2
+018+2839.png, id=122, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+DM_J2018+2839.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/D
+M_J2018+2839.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/DM_J2018+2839.png used on input line 274.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 269--276
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.276 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.276 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.276 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.276 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.276 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.280 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J2
+225+6535.png, id=123, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+DM_J2225+6535.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/D
+M_J2225+6535.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/DM_J2225+6535.png used on input line 281.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J2
+313+4253.png, id=124, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+DM_J2313+4253.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/D
+M_J2313+4253.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/DM_J2313+4253.png used on input line 285.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 280--287
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.287 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[10 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/fr
+606_results/DM_J0141+6009.png> </home/abubakar/Desktop/master_project/My_projec
+t/MSc_Project/paper_work/fr606_results/DM_J0323+3944.png> </home/abubakar/Deskt
+op/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J0613+3731
+.png> </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/
+fr606_results/DM_J1136+1551.png> </home/abubakar/Desktop/master_project/My_proj
+ect/MSc_Project/paper_work/fr606_results/DM_J1239+2453.png> </home/abubakar/Des
+ktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J2018+28
+39.png>]
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.287 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.287 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.287 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+[11 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/fr
+606_results/DM_J2225+6535.png> </home/abubakar/Desktop/master_project/My_projec
+t/MSc_Project/paper_work/fr606_results/DM_J2313+4253.png>]
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.294 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0141
++6009_profile_evolution.png, id=139, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J0141+6009_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+0141+6009_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J0141+6009_profile_evolution.png used on input line 295.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.298 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0323
++3944_profile_evolution.png, id=140, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J0323+3944_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+0323+3944_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J0323+3944_profile_evolution.png used on input line 299.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (15.0254pt too wide) in paragraph at lines 294--301
+$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.301 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.301 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.301 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.301 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.301 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0613
++3731_profile_evolution.png, id=141, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J0613+3731_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+0613+3731_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J0613+3731_profile_evolution.png used on input line 306.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1136
++1551_profile_evolution.png, id=142, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J1136+1551_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+1136+1551_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J1136+1551_profile_evolution.png used on input line 310.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 305--312
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.312 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.312 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.312 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.312 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.312 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.315 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1239
++2453_profile_evolution.png, id=143, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J1239+2453_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+1239+2453_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J1239+2453_profile_evolution.png used on input line 316.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.319 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2018
++2839_profile_evolution.png, id=144, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J2018+2839_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+2018+2839_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J2018+2839_profile_evolution.png used on input line 320.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 315--322
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.322 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.322 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.322 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.322 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.326 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2225
++6535_profile_evolution.png, id=145, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J2225+6535_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+2225+6535_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J2225+6535_profile_evolution.png used on input line 327.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.330 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2313
++4253_profile_evolution.png, id=146, 462.528pt x 346.896pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J2313+4253_profile_evolution.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+2313+4253_profile_evolution.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J2313+4253_profile_evolution.png used on input line 331.
+(pdftex.def)             Requested size: 264.46837pt x 198.36266pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 326--333
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.333 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[12 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/fr
+606_results/J0141+6009_profile_evolution.png> </home/abubakar/Desktop/master_pr
+oject/My_project/MSc_Project/paper_work/fr606_results/J0323+3944_profile_evolut
+ion.png> </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_wo
+rk/fr606_results/J0613+3731_profile_evolution.png> </home/abubakar/Desktop/mast
+er_project/My_project/MSc_Project/paper_work/fr606_results/J1136+1551_profile_e
+volution.png> </home/abubakar/Desktop/master_project/My_project/MSc_Project/pap
+er_work/fr606_results/J1239+2453_profile_evolution.png> </home/abubakar/Desktop
+/master_project/My_project/MSc_Project/paper_work/fr606_results/J2018+2839_prof
+ile_evolution.png>]
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.333 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.333 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.333 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.333 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+[13 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/fr
+606_results/J2225+6535_profile_evolution.png> </home/abubakar/Desktop/master_pr
+oject/My_project/MSc_Project/paper_work/fr606_results/J2313+4253_profile_evolut
+ion.png>]
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.340 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0141
++6009_template-freq.png, id=162, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J0141+6009_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+0141+6009_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J0141+6009_template-freq.png used on input line 341.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0323
++3944_template-freq.png, id=163, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J0323+3944_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+0323+3944_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J0323+3944_template-freq.png used on input line 345.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (15.0254pt too wide) in paragraph at lines 340--347
+$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.347 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.347 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.347 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.347 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.347 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.351 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0613
++3731_template-freq.png, id=164, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J0613+3731_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+0613+3731_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J0613+3731_template-freq.png used on input line 352.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1136
++1551_template-freq.png, id=165, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J1136+1551_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+1136+1551_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J1136+1551_template-freq.png used on input line 356.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 351--358
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.358 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.358 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.358 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.358 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.358 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.361 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1239
++2453_template-freq.png, id=166, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J1239+2453_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+1239+2453_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J1239+2453_template-freq.png used on input line 362.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.365 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2018
++2839_template-freq.png, id=167, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J2018+2839_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+2018+2839_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J2018+2839_template-freq.png used on input line 366.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 361--368
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.368 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.368 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.368 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.368 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.368 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.372 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2225
++6535_template-freq.png, id=168, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J2225+6535_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+2225+6535_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J2225+6535_template-freq.png used on input line 373.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+
+! Package caption Error: \setcaptionsubtype outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.376 \begin{subfigure}[c]{0.50\textwidth}
+                                          
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2313
++4253_template-freq.png, id=169, 853.1875pt x 682.55pt>
+File: ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/
+J2313+4253_template-freq.png Graphic file (type png)
+
+<use ~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J
+2313+4253_template-freq.png>
+Package pdftex.def Info: ~/Desktop/master_project/My_project/MSc_Project/paper_
+work/fr606_results/J2313+4253_template-freq.png used on input line 377.
+(pdftex.def)             Requested size: 264.46837pt x 211.5779pt.
+
+Overfull \hbox (30.0254pt too wide) in paragraph at lines 372--379
+[]$[]$   $[]$ 
+ []
+
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.379 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[14 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/fr
+606_results/J0141+6009_template-freq.png> </home/abubakar/Desktop/master_projec
+t/My_project/MSc_Project/paper_work/fr606_results/J0323+3944_template-freq.png>
+ </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/fr606
+_results/J0613+3731_template-freq.png> </home/abubakar/Desktop/master_project/M
+y_project/MSc_Project/paper_work/fr606_results/J1136+1551_template-freq.png> </
+home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_re
+sults/J1239+2453_template-freq.png> </home/abubakar/Desktop/master_project/My_p
+roject/MSc_Project/paper_work/fr606_results/J2018+2839_template-freq.png>]
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.379 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.379 \end{figure}
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.379 \end{figure}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+[15 </home/abubakar/Desktop/master_project/My_project/MSc_Project/paper_work/fr
+606_results/J2225+6535_template-freq.png> </home/abubakar/Desktop/master_projec
+t/My_project/MSc_Project/paper_work/fr606_results/J2313+4253_template-freq.png>
+] (./inspect_analysis_plots.aux) ) 
+Here is how much of TeX's memory you used:
+ 4755 strings out of 494910
+ 96557 string characters out of 6179835
+ 139822 words of memory out of 5000000
+ 8005 multiletter control sequences out of 15000+600000
+ 4850 words of font info for 18 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 42i,6n,40p,289b,213s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb>
+Output written on inspect_analysis_plots.pdf (15 pages, 2476788 bytes).
+PDF statistics:
+ 190 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 331 words of extra memory for PDF output out of 10000 (max. 10000000)
+
