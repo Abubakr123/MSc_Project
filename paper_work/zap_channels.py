@@ -45,3 +45,5 @@ for file in args.files:
         archive.unload(output_dir + '/' + file + '.F350')
     else:
 	print archive, nchan
+        archive.unload()
+        archive.unload(output_dir + '/' + file + '.F350')
