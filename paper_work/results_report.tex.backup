@@ -15,7 +15,6 @@
 \section{Observations with Swedish station (SE607)}
 \subsection{DM measurements}
 \pagenumbering{gobble}
-
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0051+0423.png}
 \end{subfigure}
@@ -32,7 +31,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0540+3207.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -51,7 +50,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J0921+6254.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -61,7 +60,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J1321+8323.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -71,7 +70,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J1955+5059.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -79,9 +78,9 @@
 \end{subfigure}
 \hspace{0.02\textwidth}
 \begin{subfigure}[c]{0.50\textwidth}
-%\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J2321+6024_F5.png}
+\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/DM_J2321+6024_F5.png}
 \end{subfigure}
-
+\end{figure}
 
 \newpage
 %========================================================================================================
@@ -95,7 +94,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0102+6537_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 
 %\vspace{5mm}
@@ -106,7 +105,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0540+3207_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 %\vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -116,7 +115,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0700+6418_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 
 %\vspace{5mm}
@@ -127,7 +126,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0921+6254_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 %\vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -137,7 +136,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1321+8323_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 %\vspace{5mm}
 \begin{subfigure}[c]{0.5\textwidth}
@@ -147,7 +146,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1955+5059_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 
 %\vspace{5mm}
@@ -158,7 +157,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J2321+6024_F5_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 
 
@@ -173,7 +172,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0102+6537_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 
 %\vspace{5mm}
@@ -184,7 +183,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0540+3207_tmplate-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 %\vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -194,7 +193,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0700+6418_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 
 %\vspace{5mm}
@@ -205,7 +204,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J0921+6254_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 %\vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -215,7 +214,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1321+8323_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 
 %\vspace{5mm}
@@ -226,7 +225,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J1955+5059_tmplate-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 
 %\vspace{5mm}
@@ -235,9 +234,9 @@
 \end{subfigure}
 \hspace{0.02\textwidth}
 \begin{subfigure}[c]{0.50\textwidth}
-%\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J2321+6024_tmplate-5freq.png}
+\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/se607_results/J2321+6024_tmplate-5freq.png}
 \end{subfigure}
-
+\end{figure}
 
 
 
@@ -254,7 +253,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J0323+3944.png}
 \end{subfigure}
-
+\end{figure}
 
 
 \vspace{5mm}
@@ -265,7 +264,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J0454+5543.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -275,8 +274,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J0613+3731.png}
 \end{subfigure}
-
-%\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J0700+6418.png}
+\end{figure}
 
 
 \vspace{5mm}
@@ -287,7 +285,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J0837+0610.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -297,7 +295,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J1136+1551.png}
 \end{subfigure}
-
+\end{figure}
 
 
 \vspace{5mm}
@@ -308,7 +306,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J1509+5531_noargs.png}
 \end{subfigure}
-
+\end{figure}
 
 
 \vspace{5mm}
@@ -319,7 +317,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J1645-0317.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -329,7 +327,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J1825-0935.png}
 \end{subfigure}
-
+\end{figure}
 
 
 \vspace{5mm}
@@ -340,7 +338,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J2113+4644.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -350,7 +348,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/DM_J2313+4253.png}
 \end{subfigure}
-
+\end{figure}
 
 
 \newpage
@@ -366,7 +364,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0323+3944_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0332+5434_profile_evolution.png}
@@ -375,7 +373,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0454+5543_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0543+2329_profile_evolution.png}
@@ -384,7 +382,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0613+3731_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -394,7 +392,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0837+0610_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -404,7 +402,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1136+1551_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -414,7 +412,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1509+5531_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -424,7 +422,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1645-0317_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -434,7 +432,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1825-0935_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -444,7 +442,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2113+4644_profile_evolution-F10.png}
 \end{subfigure}
-
+\end{figure}
 
 
 \vspace{5mm}
@@ -455,7 +453,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2313+4253_profile_evolution.png}
 \end{subfigure}
-
+\end{figure}
 
 
 \newpage
@@ -470,7 +468,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0323+3944_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -480,7 +478,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0454+5543_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -490,7 +488,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0613+3731_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -500,7 +498,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J0837+0610_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -510,7 +508,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1136+1551_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -520,7 +518,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1509+5531_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -530,7 +528,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1645-0317_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -540,7 +538,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J1825-0935_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -550,7 +548,7 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2113+4644_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 
 \vspace{5mm}
@@ -561,12 +559,29 @@
 \begin{subfigure}[c]{0.50\textwidth}
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/fr606_results/J2313+4253_template-freq.png}
 \end{subfigure}
-
+\end{figure}
 
 %=============================================================
 \newpage
-\section{Observations with German stations (DE60x)}
+\section{Observations from stations in Germany (DE60x)}
 \subsection{DM measurements}
+
+DM_J0055+5117.png
+DM_J0820-1350.png
+DM_J0946+0951.png
+DM_J1543-0620.png
+DM_J1740+27.png
+DM_J1752-2806.png
+DM_J1900-2600.png
+DM_J1913-0440.png
+DM_J1921+2153.png
+DM_J1935+1616.png
+DM_J1943-1237.png
+DM_J2022+5154.png
+DM_J2048-1616.png
+DM_J2157+4017.png
+DM_J2219+4754.png
+DM_J2257+5909.png
 
 \vspace{5mm}
 \begin{subfigure}[c]{0.50\textwidth}
@@ -577,351 +592,5 @@
 \includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J0820-1350.png}
 \end{subfigure}
 
-%\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J0823+0159.png} ## bad DM
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J0452-1759.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1948+3540.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J0946+0951.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1543-0620.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1740+27.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1752-2806.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1900-2600.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1913-0440.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1921+2153.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1935+1616.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1943-1237.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J2022+5154.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J2048-1616.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J2157+4017.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J2219+4754.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J2257+5909.png}
-\end{subfigure}
-
-
-%==========
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J0826+2637.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J0922+0638.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1820-0427.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1834-0426.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J1932+1059.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/DM_J2022+2854.png}
-\end{subfigure}
-
-\newpage
-%========================================================================================
-\subsection{profile evolution}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0055+5117_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0820-1350_profile_evolution.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0452-1759_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1948+3540_profile_evolution.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0946+0951_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1543-0620_profile_evolution.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1740+27_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1752-2806_profile_evolution.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1900-2600_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1913-0440_profile_evolution.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1921+2153_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1935+1616_profile_evolution.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1943-1237_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2022+5154_profile_evolution.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2048-1616_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2157+4017_profile_evolution.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2219+4754_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2257+5909_profile_evolution.png}
-\end{subfigure}
-
-%==========
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0826+2637_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0922+0638_profile_evolution.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1820-0427_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1834-0426_profile_evolution.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1932+1059_profile_evolution.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2022+2854_profile_evolution.png}
-\end{subfigure}
-
-\newpage
-%==============================================================
-
-\subsection{The frequency resolved profile}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0055+5117_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0820-1350_template.freq.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0452-1759_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1948+3540_template.freq.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0946+0951_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1543-0620_template.freq.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1740+27_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1752-2806_template.freq.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1900-2600_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1913-0440_template.freq.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1921+2153_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1935+1616_template.freq.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1943-1237_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2022+5154_template.freq.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2048-1616_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2157+4017_template.freq.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2219+4754_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2257+5909_template.freq.png}
-\end{subfigure}
-
-%==========
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0826+2637_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J0922+0638_template.freq.png}
-\end{subfigure}
-
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1820-0427_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1834-0426_template.freq.png}
-\end{subfigure}
-
-\vspace{5mm}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J1932+1059_template.freq.png}
-\end{subfigure}
-\hspace{0.02\textwidth}
-\begin{subfigure}[c]{0.50\textwidth}
-\includegraphics[width=\linewidth]{~/Desktop/master_project/My_project/MSc_Project/paper_work/de60x_results/J2022+2854_template.freq.png}
-\end{subfigure}
 
 \end{document} 
