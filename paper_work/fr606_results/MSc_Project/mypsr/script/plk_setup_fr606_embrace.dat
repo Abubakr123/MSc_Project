@@ -1,0 +1,22 @@
+# Set up for the defaults used by the plk plotting package
+#
+aspect 0.8
+fontsize 1.0
+fonttype 1
+linewidth 1
+menu 3
+freq 110 130 1 16
+freq 130 150 2 16
+freq 150 170 3 16
+freq 170 190 4 16
+#freq -1 500 1 16
+freq 964 966 1 16
+freq 966 969 2 16
+freq 969 972 3 16
+freq 972 975 4 16
+#freq 2500 1000000 5 16
+background black
+line white
+
+
+ 
